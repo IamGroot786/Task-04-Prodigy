@@ -1,0 +1,1 @@
+Raw data is downloaded locally by `python src/fetch_data.py` and is not committed by default.

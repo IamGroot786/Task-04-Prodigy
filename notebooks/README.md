@@ -1,0 +1,1 @@
+Run `python src/fetch_data.py` and `python src/analyze_sentiment.py` from the project root first. Then open `task4_sentiment_analysis.ipynb` and execute its cells. The notebook reads the downloaded official Prodigy Task 4 training and validation CSVs from `data/raw/`.
